@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MSDataSourceObj" Collapsed="true">
+    <Position X="70" Y="4" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CAQEAAQAAAAAAAgAAIAACEgAQAAAgAAgAAAAAIAAAEA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msdatasourceobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSEnvelopObj" Collapsed="true">
+    <Position X="66.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAOEAAAwA4JAADAAAEAABAAABAAQAAAAAAAEAACAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msenvelopobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSLayerObj" Collapsed="true">
+    <Position X="73.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>cSSKWqEQIAEIUig2EEUMEFAAEZUgAEoAEMQAxqYhBBA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mslayerobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSGroupObj" Collapsed="true">
+    <Position X="73.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABBAAAABAAAQAACAAAAAAAABAAAACAggAgAAAAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mslayerobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSMapObj" Collapsed="true">
+    <Position X="72" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>tgBBAgGwAIkBBgIBEAfiLAKAASgAAEEtCAAhRMASFMA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msmapobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSObj" Collapsed="true">
+    <Position X="70.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAIAAAAAAAAAAAAAAAAhAAAAAAAAEAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSSpatialRefObj" Collapsed="true">
+    <Position X="68.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAgAkAAAAAABAAAAAAAACAAQAQCAEAAAAAAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msspatialrefobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSSymbolObj" Collapsed="true">
+    <Position X="61.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAIAAgAACACAAIAAAABAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSMarkerSymbolBaseObj" Collapsed="true">
+    <Position X="54.5" Y="9.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>SAAEACYECAAAAACEAEGIAABAYEAAACCAACAACAIAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSSimpleMarkerSymbolObj" Collapsed="true">
+    <Position X="54.75" Y="11.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAECAAAQAAAAAAAAEAAAAABAAAAAEQEAAAAAAgEQ=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSPictureMarkerSymbolObj" Collapsed="true">
+    <Position X="57.25" Y="11.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAIAAAQAAAAAAAAAACAAAAAAAIAAAggAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSCharacterMarkerSymbolObj" Collapsed="true">
+    <Position X="59.75" Y="11.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AECCAAAMIBAAAUAACAAgIAACAECABCAAACKAAACAIAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSMultiLayerMarkSymbolObj" Collapsed="true">
+    <Position X="57" Y="9.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAFAAAAIgAAIAAAAAIhAAACAAAAAQoAAQAAIABAAJAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSLineSymbolBaseObj" Collapsed="true">
+    <Position X="65.25" Y="9.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAIAAACACAAAIAgAyEAAAAAEADAIACCQAggAAECAAAQ=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSSimpleLineSymbolObj" Collapsed="true">
+    <Position X="62.5" Y="11.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSHashLineSymbolObj" Collapsed="true">
+    <Position X="65" Y="11.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEgIABCAgAAAAAAAAAABAAiAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSMarkerLineSymbolObj" Collapsed="true">
+    <Position X="67.25" Y="11.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAIAAAACAAAAAAAgAAAAAAAAACIAIAAAAEAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSPictureLineSymbolObj" Collapsed="true">
+    <Position X="69.75" Y="11.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>SAAEACAAAAAAAAAAAAAAAAAAgABAAAAIIAAAggAADIA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSMultiLayerLineSymbolObj" Collapsed="true">
+    <Position X="67.5" Y="9.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>CAEAAAAAAAAAAAAAAIBAQACAQAAAQoAAQAEIAAEABAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSFillSymbolBaseObj" Collapsed="true">
+    <Position X="60.25" Y="12.5" Width="2" />
+    <InheritanceLine Type="MSSymbolObj" ManuallyRouted="true">
+      <Path>
+        <Point X="62.25" Y="8.939" />
+        <Point X="62.25" Y="9.371" />
+        <Point X="62.402" Y="9.371" />
+        <Point X="62.402" Y="12.184" />
+        <Point X="61.25" Y="12.184" />
+        <Point X="61.25" Y="12.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>CAAEAAAAAAAAAAAkAECABAAAAAIAACCAAAAAAAAABAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSSimpleFillSymbolObj" Collapsed="true">
+    <Position X="55" Y="14" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSGraduateFillSymbolObj" Collapsed="true">
+    <Position X="66.25" Y="14" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CACAACAAIAAIAAAgAAAgAAAIAAAAEgQAAwAAAAAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSPictureFillSymbolObj" Collapsed="true">
+    <Position X="61.75" Y="14" Width="2" />
+    <TypeIdentifier>
+      <HashCode>SEAEACYQCAAAAQAAAAEgAAAA4AAAAQAQIAAAigAACAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSMarkerFillSymbolObj" Collapsed="true">
+    <Position X="57.25" Y="14" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AoAAAAIAAAAAAEAAEAQAABAAACAAAAIAKABAAAAAAQA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSHatchFillSymbolObj" Collapsed="true">
+    <Position X="64" Y="14" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAQAAACAAAAEAAAABAAAAAAACABACAAAQkBAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSLineFillSymbolObj" Collapsed="true">
+    <Position X="59.5" Y="14" Width="2" />
+    <TypeIdentifier>
+      <HashCode>QEBEACAIAAACCAAAAAAAAAEAAAAAAAAgAQCAAAAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSMultiLayerFillSymbolObj" Collapsed="true">
+    <Position X="62.75" Y="12.5" Width="2.25" />
+    <NestedTypes>
+      <Typedef Name="MSMultiLayerFillSymbolObj::ITT" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Typedef>
+    </NestedTypes>
+    <InheritanceLine Type="MSSymbolObj" ManuallyRouted="true">
+      <Path>
+        <Point X="62.25" Y="8.939" />
+        <Point X="62.25" Y="9.354" />
+        <Point X="62.398" Y="9.354" />
+        <Point X="62.398" Y="12.172" />
+        <Point X="63.875" Y="12.172" />
+        <Point X="63.875" Y="12.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAQACAAQAAAIBAgCCAAAAAQoAAwAAAAEEABAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSRangeSymbolObj" Collapsed="true">
+    <Position X="60" Y="9.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAICACAAAIIAAAAAQACIBAgAAABAIAAAIAAg=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSValueSymbolObj" Collapsed="true">
+    <Position X="63.25" Y="9.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAIIAAigAAAAAJAAAQAAABAgAIAAAAAAAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\mssymbolobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSThematicObj" Collapsed="true">
+    <Position X="86.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAACIAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAgA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSAnnotationThematicObj" Collapsed="true">
+    <Position X="84.5" Y="5.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BAgDgA4AoBAGuQCAAGIIIDADYAYQACCAAA4AAAAAoSA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSLabelThematicObj" Collapsed="true">
+    <Position X="88.75" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>FQiDIA4MoBACMQChAWIIIDAjZUaQACCAAA6gAQAQISA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSFeatureThematicObj" Collapsed="true">
+    <Position X="92.75" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAEAAEAAAAAAAAAAEAAAEQARAAAQASAAgAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSRasterThematicObj" Collapsed="true">
+    <Position X="80.5" Y="5.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAgBASAAAAAAEAAAAAAAAIACEAAAAAgAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSSimpleThematicObj" Collapsed="true">
+    <Position X="88.5" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AQAAEAAgAAAAAAAAAAAAAAAAEAAAAAAAIAgAAAAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSCategoryThematicObj" Collapsed="true">
+    <Position X="90.75" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAgIBAoCgQAEAAEkAEAAEAAIIAAQZQACAgAoAAACAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSGraduateThematicObj" Collapsed="true">
+    <Position X="93.25" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ACiIBAgCgQAGAAAEAEAAAAAJIAIAZSACIgAoAEACAQE=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSChartThematicObj" Collapsed="true">
+    <Position X="95.75" Y="7" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSRGBRasterThematicObj" Collapsed="true">
+    <Position X="74.75" Y="7" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>BgIAIjEASoFiiIQAAOAhBIB0AgNWEIDGQAQSBAgACAI=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSClassificationRasterThematicObj" Collapsed="true">
+    <Position X="80" Y="7" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAIAA4QAAAIEAAqAACAooAICSACACAgAIEAACAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSStretchRasterThematicObj" Collapsed="true">
+    <Position X="77.25" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAUgIpBAAgQEAAoEgAqQCBbmdiECBALKQBABMEAJCPA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSDiscreteRasterThematicObj" Collapsed="true">
+    <Position X="83" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQIAAAIogIgAAAgAiAAAAgIgICAAiAAAgAEAAACBA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSColorMapRasterThematicObj" Collapsed="true">
+    <Position X="85.75" Y="7" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAIAI4AQACCAAAiAAAA4IAICAACACAgAAAAACAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MSUniqueValueRasterThematicObj" Collapsed="true">
+    <Position X="85.5" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>d:\shenzf\program\mh370_8\mh370\mhmap\include\mhmapdef\msthematicobj.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>
